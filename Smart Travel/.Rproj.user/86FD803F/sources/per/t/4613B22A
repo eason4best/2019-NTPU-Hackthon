@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552781133690.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3642685739",
+    "id" : "4613B22A",
+    "lastKnownWriteTime" : 1552781067,
+    "last_content_update" : 1552781067,
+    "path" : "C:/Users/USER/Desktop/Smart Travel/Data.R",
+    "project_path" : "Data.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

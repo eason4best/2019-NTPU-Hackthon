@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552781124935.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4184863756",
+    "id" : "BCBF2E97",
+    "lastKnownWriteTime" : 1552781051,
+    "last_content_update" : 1552781051,
+    "path" : "C:/Users/USER/Desktop/Smart Travel/map.R",
+    "project_path" : "map.R",
+    "properties" : {
+        "cursorPosition" : "7,37",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

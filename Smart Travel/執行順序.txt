@@ -1,0 +1,2 @@
+請按照下列順序執行檔案:
+Data.R--->ui.R--->map.R--->server.R
